@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925064393005",
+    "project_id": "hasartespit-bfe7b",
+    "storage_bucket": "hasartespit-bfe7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925064393005:android:8806dbdafece7efa45a3a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFghLDE2E_inpikihlXHbHiw1jD7lYNk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
