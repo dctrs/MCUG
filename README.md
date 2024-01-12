@@ -1,0 +1,2 @@
+# MCUG
+mobil cihazlar dersi
